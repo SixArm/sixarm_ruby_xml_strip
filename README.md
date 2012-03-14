@@ -1,4 +1,5 @@
-# SixArm.com » Ruby » XML#strip methods to clean XML & HTML
+SixArm.com » Ruby » 
+# XML#strip methods to clean XML & HTML
 
 * Author: Joel Parker Henderson, joel@joelparkerhenderson.com
 * Copyright: Copyright (c) 2006-2013 Joel Parker Henderson
