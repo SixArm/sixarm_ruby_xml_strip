@@ -1,0 +1,4 @@
+CHANGELOG
+
+2012-03-14 2.0.4 Tune up tests to use pathname for sample files
+2012-03-13 2.0.0 Lift the XML#load methods from the sixarm_ruby_ramp gem
