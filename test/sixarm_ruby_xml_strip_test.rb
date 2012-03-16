@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 require 'minitest/autorun'
-require 'minitest/autorun'
 require 'simplecov'
 SimpleCov.start
-
-require 'pathname'
 require 'sixarm_ruby_xml_strip'
+require 'pathname'
 
 describe XML do
 
