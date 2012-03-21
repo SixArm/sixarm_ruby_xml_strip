@@ -20,7 +20,7 @@ For docs go to <http://sixarm.com/sixarm_ruby_xml_strip/doc>
 Want to help? We're happy to get pull requests.
 
 
-## Quickstart
+## Install quickstart
 
 Install:
 
@@ -28,14 +28,14 @@ Install:
 
 Bundler:
 
-    gem "sixarm_ruby_xml_strip", "=2.1.0"
+    gem "sixarm_ruby_xml_strip", "~>2.1.0"
 
 Require:
    
     require "sixarm_ruby_xml_strip"
 
 
-## High Security (Optional)
+## Install with security (optional)
 
 To enable high security	for all	our gems:
 
