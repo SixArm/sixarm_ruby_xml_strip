@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> XML#strip methods to clean XML & HTML
 
-* Docs: <http://sixarm.com/sixarm_ruby_xml_strip/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_xml_strip/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_xml_strip>
 * Repo: <http://github.com/sixarm/sixarm_ruby_xml_strip>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
