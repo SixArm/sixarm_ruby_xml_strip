@@ -3,7 +3,7 @@
 Please see README
 =end
 
-require 'sixarm_ruby_rexml'
+require "sixarm_ruby_rexml"
 
 module XML
 
