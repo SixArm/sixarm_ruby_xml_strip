@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_xml_strip"
-  s.summary           = "SixArm.com » Ruby » XML#strip"
+  s.summary           = "SixArm.com → Ruby → XML#strip"
   s.description       = "XML#strip methods to clean up XML and HTML"
   s.version           = "2.1.1"
 
